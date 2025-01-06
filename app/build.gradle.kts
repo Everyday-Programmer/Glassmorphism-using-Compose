@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.glassmorphismcompose"
+    namespace = "com.example.composeglassmorphism"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.glassmorphismcompose"
+        applicationId = "com.example.composeglassmorphism"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

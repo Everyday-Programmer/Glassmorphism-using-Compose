@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Glassmorphism Compose"
+rootProject.name = "Compose Glassmorphism"
 include(":app")
- 
